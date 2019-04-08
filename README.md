@@ -8,3 +8,6 @@
 
 [Linkki kalevan sivuille](http://www.kaleva.fi)
 
+[GitLog](https://github.com/JaniJani11/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+
+[Komentorivi](https://github.com/JaniJani11/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
