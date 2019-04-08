@@ -12,4 +12,7 @@
 
 [Komentorivi](https://github.com/JaniJani11/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
 
+
 Ding Dong
+
+Brum brum...
